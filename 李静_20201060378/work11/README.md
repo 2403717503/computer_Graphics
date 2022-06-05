@@ -17,6 +17,9 @@
 work11.cpp实现了茶壶的生成，并可根据用户对坐标轴和角度的输入，实现对茶壶的旋转，观察旋转前后茶壶的外观特点
 
 ## 实验结果
-![绕x轴旋转30度前后的图]()
-![绕y轴旋转45度前后的图]()
-![绕z轴旋转120度前后的图]()
+绕x轴旋转30度
+![绕x轴旋转30度前后的图](https://github.com/2403717503/computer_Graphics/raw/main/11.PNG)
+绕y轴旋转45度
+![绕y轴旋转45度前后的图](https://github.com/2403717503/computer_Graphics/raw/main/11.1.PNG)
+绕z轴旋转120度
+![绕z轴旋转120度前后的图](https://github.com/2403717503/computer_Graphics/raw/main/11.2.PNG)
