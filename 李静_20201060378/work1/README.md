@@ -13,4 +13,3 @@
 本实验使用图元常量GL_LINES，在（0，0）到（400，300）范围内给定任意两个顶点坐标，可以完成生成这两点间的直线段的功能
 
 ## 实验结果
-![1](https://github.com/2403717503/computer_Graphics/blob/main/1.png)
